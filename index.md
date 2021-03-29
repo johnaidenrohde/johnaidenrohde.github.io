@@ -1,7 +1,7 @@
 
 # Welcome!
 
- My name is Aiden and this is my personal website, a place to link together my online profiles and host a few of my personal projects. Technically my first name is John, but only the government calls me that.
+ My name is Aiden and this is my personal website, a place to link together my online profiles and host a few of my personal projects. For the avoidance of doubt, my first name is really John, but only the government calls me that.
  
  ---
 
@@ -21,7 +21,7 @@
 
 [Strava](https://www.strava.com/athletes/15016494) - sometimes I post my workouts
 
-##Projects
+## Projects
 
 [Safety in Numbers](https://www.safe7y.com) - My day job, a social enterprise using big data to save lives on the roads
 
